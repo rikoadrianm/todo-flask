@@ -1,0 +1,9 @@
+Skb-proposal bisnis|False|2025-06-30
+IOT-Pert9|False|2025-06-26
+IOT-Pert11|False|2025-06-26
+IOT-Pert12|False|2025-06-26
+IOT-Pert13|False|2025-06-26
+IOT-Pert14|False|2025-06-26
+UAS-Public speaking|False|2025-06-30
+Laporan kp|False|2025-06-30
+Leadership-uas|False|2025-06-30
